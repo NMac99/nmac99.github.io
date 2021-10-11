@@ -1,0 +1,2 @@
+:root{--color-1:#f4f1ea;--color-2:#48b4a5;--color-3:#5089c6;--color-4:#255a62;--color-5:#15222a;--color-1-dark-10:#dcd9d3;--color-1-dark-40:#92918c;--color-1-dark-25:#b7b5b0;--color-3-light:#76a3d3;--color-3-dark:#487bb2;--color-5-light:#7fa7bf;--color-5-dark:#0b1115}body{width:1200px;max-width:1200px;margin:0 auto;font-family:Quicksand,sans-serif}#root{padding:10px 0}.icon{display:inline-flex}.icon>svg{transition:fill .3s ease}.ant-rate-star-first,.ant-rate-star-second{color:#b7b5b0;color:var(--color-1-dark-25)}
+/*# sourceMappingURL=main.82b21d7f.chunk.css.map */
